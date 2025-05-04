@@ -1,0 +1,15 @@
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\bin\Debug\net8.0\DeterminingDNAHealth.exe
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\bin\Debug\net8.0\DeterminingDNAHealth.deps.json
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\bin\Debug\net8.0\DeterminingDNAHealth.runtimeconfig.json
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\bin\Debug\net8.0\DeterminingDNAHealth.dll
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\bin\Debug\net8.0\DeterminingDNAHealth.pdb
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\obj\Debug\net8.0\DeterminingDNAHealth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\obj\Debug\net8.0\DeterminingDNAHealth.AssemblyInfoInputs.cache
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\obj\Debug\net8.0\DeterminingDNAHealth.AssemblyInfo.cs
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\obj\Debug\net8.0\DeterminingDNAHealth.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\obj\Debug\net8.0\DeterminingDNAHealth.sourcelink.json
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\obj\Debug\net8.0\DeterminingDNAHealth.dll
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\obj\Debug\net8.0\refint\DeterminingDNAHealth.dll
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\obj\Debug\net8.0\DeterminingDNAHealth.pdb
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\obj\Debug\net8.0\DeterminingDNAHealth.genruntimeconfig.cache
+C:\Users\Vasil\source\repos\C#OOP\Hackerrank\DeterminingDNAHealth\DeterminingDNAHealth\obj\Debug\net8.0\ref\DeterminingDNAHealth.dll
