@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeterminingDNAHealth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dac3f7f2cfa906cc4310198e695ff109b8b73fa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+841ceb69b2dd91012633827691876fd08ff455fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeterminingDNAHealth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeterminingDNAHealth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
