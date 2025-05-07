@@ -166,9 +166,10 @@ namespace DeterminingDNAHealth
                             total += sum;
                         }
                     }
-                    if (total > max) max = total;
-                    if (total < min) min = total;
-                }  
+                    
+                }
+                if (total > max) max = total;
+                if (total < min) min = total;
             }
 
             return (min, max);
